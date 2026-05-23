@@ -1,18 +1,13 @@
-# Hi, I'm Faiha 👋
-
-### Laravel & Full Stack Developer
-
-Currently building **Paylio** — Payroll Management System.
+# Hello, I'm Faiha Wanda ₊⊹
+> Create the things you wish existed.
 
 ---
 
-## 🚀 Tech Stack
-- Laravel
-- PHP
-- Tailwind CSS
-- MySQL
+#### Currently Exploring:
+- Full stack development
+- Swift & iOS apps
+- Thoughtful and user-centered UI/UX design
 
-## 🌱 Currently Learning
-- Fullstack Development
-- Robotics
-- UI/UX Design
+---
+### [ Stay tuned for what I build next ]
+> Elsewhere `Faiha Wanda Nabilah`
